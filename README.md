@@ -28,7 +28,7 @@ Please report any security issues you find through security@riemann.cash
 ### Donate
 If you liked this project, consider donating to support it ❤️
 
-![Polygon](./images/Polygon.svg) [0xD3633f7afa350Ed73c7C51A496738f2CB1a1670e](https://polygonscan.com/address/0xD3633f7afa350Ed73c7C51A496738f2CB1a1670e)
+[0xD3633f7afa350Ed73c7C51A496738f2CB1a1670e](https://polygonscan.com/address/0xD3633f7afa350Ed73c7C51A496738f2CB1a1670e)
 
 ## Reference
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
@@ -47,4 +47,4 @@ If you liked this project, consider donating to support it ❤️
 ## LICENSE
 Riemann Contracts is released under the [MIT License](LICENSE).
 
-Copyright ©2022-2029 [RiemannCash](https://github.com/RiemannCash)
+Copyright ©2022-2029 [RiemannCash](https://github.com/RiemannTeam)
