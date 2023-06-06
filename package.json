@@ -1,0 +1,39 @@
+{
+    "name": "riemann-contracts",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.2.1",
+        "@nomiclabs/hardhat-waffle": "^2.0.3",
+        "@openzeppelin/contracts": "^4.8.0",
+        "dotenv": "^16.0.3",
+        "ethers": "^5.7.2",
+        "hardhat": "^2.12.2"
+    },
+    "scripts": {
+        "build": "hardhat compile",
+        "compile": "hardhat compile"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RiemannCash/contracts.git"
+    },
+    "keywords": [
+        "privacy transactions",
+        "anonymous transactions",
+        "coin mixer",
+        "coin blender",
+        "cash",
+        "riemann",
+        "customizable denomination",
+        "divisible deposit",
+        "fast withdrawal",
+        "untraceable"
+    ],
+    "author": "Riemann <support@riemann.cash>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RiemannCash/contracts/issues",
+        "email": "security@riemann.cash"
+    },
+    "homepage": "https://riemann.cash"
+}
