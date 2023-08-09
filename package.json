@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/RiemannCash/contracts.git"
+        "url": "https://github.com/RiemannTeam/contracts.git"
     },
     "keywords": [
         "privacy transactions",
@@ -32,7 +32,7 @@
     "author": "Riemann <support@riemann.cash>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/RiemannCash/contracts/issues",
+        "url": "https://github.com/RiemannTeam/contracts/issues",
         "email": "security@riemann.cash"
     },
     "homepage": "https://riemann.cash"
